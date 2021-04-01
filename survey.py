@@ -1,4 +1,5 @@
 import tkinter 
+import numpy
 from tkinter import *
 from math import *
 
